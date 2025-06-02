@@ -1,8 +1,8 @@
 # Blank HOST CDN
-### Site: https://cdn.jsdelivr.net/gh/rialms/resources@master/
+### Site: https://cdn.jsdelivr.net/gh/rokibulroni/Resources@master/
 
 # HOST CDN
-### Site: https://cdn.jsdelivr.net/gh/rialms/resources@master/portfolio/assets/
+### Site: https://cdn.jsdelivr.net/gh/rokibulroni/Resources@master/portfolio/assets/
 
 # CSS Grid Generator...
 
