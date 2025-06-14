@@ -1,5 +1,5 @@
 # Blank HOST CDN
-### Site: https://cdn.jsdelivr.net/gh/rokibulroni/Resources@master/
+### Site: https://cdn.jsdelivr.net/gh/rokibulroni/Resources@main/
 
 # HOST CDN
 ### Site: https://cdn.jsdelivr.net/gh/rokibulroni/Resources@master/portfolio/assets/
